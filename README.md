@@ -173,6 +173,8 @@ return self.critic_linear(x), self.actor_linear(x), (hx, cx)
 
 **Output:**
 
+[https://github.com/xoraus/Breakout-A3C-Algorithm/blob/master/Model%20Output%20Images/1.AgentScore541.png](https://github.com/xoraus/Breakout-A3C-Algorithm/blob/master/Model%20Output%20Images/1.AgentScore541.png)
+
   
 
   
