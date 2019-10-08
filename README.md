@@ -173,41 +173,20 @@ return self.critic_linear(x), self.actor_linear(x), (hx, cx)
 
 **Output:**
 
-[https://github.com/xoraus/Breakout-A3C-Algorithm/blob/master/Model%20Output%20Images/1.AgentScore541.png](https://github.com/xoraus/Breakout-A3C-Algorithm/blob/master/Model%20Output%20Images/1.AgentScore541.png)
-
+![1.AgentScore541.png](https://github.com/xoraus/Breakout-A3C-Algorithm/blob/master/Model%20Output%20Images/1.AgentScore541.png?raw=true)
   
 
-  
+![2.AgentScore151.png](https://github.com/xoraus/Breakout-A3C-Algorithm/blob/master/Model%20Output%20Images/2.AgentScore151.png?raw=true)
 
-  
 
-  
+![1.AgentScore541.png](https://github.com/xoraus/Breakout-A3C-Algorithm/blob/master/Model%20Output%20Images/1.AgentScore541.png?raw=true)
 
-  
 
-  
+![EpisodeLength.png](https://github.com/xoraus/Breakout-A3C-Algorithm/blob/master/Model%20Output%20Images/EpisodeLength.png?raw=true)
 
-  
+![episodeReward.png](https://github.com/xoraus/Breakout-A3C-Algorithm/blob/master/Model%20Output%20Images/episodeReward.png?raw=true)  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+ 
 
 **References:**
 
